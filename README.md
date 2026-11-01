@@ -165,4 +165,4 @@ Project contributors (as listed in the notebook):
 
 ## License
 
-Add a repository license after confirming the licensing and redistribution requirements for your source code and any included materials. The CIFAR-10 dataset has its own terms and acknowledgement guidance; refer to the [official dataset page](https://www.cs.toronto.edu/~kriz/cifar.html).
+. The CIFAR-10 dataset has its own terms and acknowledgement guidance; refer to the [official dataset page](https://www.cs.toronto.edu/~kriz/cifar.html).
